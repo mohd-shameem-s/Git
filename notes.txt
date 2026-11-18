@@ -24,3 +24,7 @@ git checkout "hash_id"  --> git checkout 9652aeb1d6ab37bd271b0cc027c93b3da2a9904
 git checkout main 
 
 git checkout -f main
+
+git remote add origin https://github.com/mohd-shameem-s/Git.git
+git branch -M main
+git push -u origin main
