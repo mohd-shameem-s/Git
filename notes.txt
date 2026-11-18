@@ -20,3 +20,7 @@ git commit -m 'message'
 git log 
 
 git checkout "hash_id"  --> git checkout 9652aeb1d6ab37bd271b0cc027c93b3da2a99045
+
+git checkout main 
+
+git checkout -f main
