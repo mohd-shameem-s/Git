@@ -13,3 +13,5 @@ git add "filename" --> git add index.html | git add . for bulk file adding
 git commit -m 'message' 
 
 git log 
+
+git checkout "hash_id"  --> git checkout 9652aeb1d6ab37bd271b0cc027c93b3da2a99045
