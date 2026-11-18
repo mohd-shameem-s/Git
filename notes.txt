@@ -2,6 +2,11 @@ git config --global user.name 'mohd-shameem-s'
 
 git config --global user.email 'shameemsms2004@gmail.com'
 
+
+git branch -M main
+git switch main
+
+
 git config --global init.defaultBranch main
 
 git init
