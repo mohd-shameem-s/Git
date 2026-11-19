@@ -32,3 +32,6 @@ git push -u origin main
 git branch "name"
 git checkout "name"
 (In single line) git checkout -b "other_name" 
+
+git checkout "Branch_name" -->> to switch branch from another
+
