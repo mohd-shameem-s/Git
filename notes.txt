@@ -47,4 +47,4 @@ git fetch --> to fetch new branched created in GitHub, but always use terminal t
 
 git checkout
 
-
+git merge main --> use this incase of any merge conflicts
