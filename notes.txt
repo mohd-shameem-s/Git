@@ -28,3 +28,7 @@ git checkout -f main
 git remote add origin https://github.com/mohd-shameem-s/Git.git
 git branch -M main
 git push -u origin main
+
+git branch "name"
+git checkout "name"
+(In single line) git checkout -b "nwname"
