@@ -31,4 +31,4 @@ git push -u origin main
 
 git branch "name"
 git checkout "name"
-(In single line) git checkout -b "nwname"
+(In single line) git checkout -b "other_name" 
