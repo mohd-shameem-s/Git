@@ -35,3 +35,16 @@ git checkout "name"
 
 git checkout "Branch_name" -->> to switch branch from another
 
+git branch "newBranchName" "srcBranchName" -->> create a branch from another existing src branch
+
+git push --set-upstream origin "branchName" (or) git push -u origin "branchName" -->> push the particular branch to GitHub
+
+git push
+
+git pull 
+
+git fetch --> to fetch new branched created in GitHub, but always use terminal to create branch and then push it into github
+
+git checkout
+
+
